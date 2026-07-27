@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 yolo shivam
-=======
-yolo ritika
->>>>>>> 3f1940c56db47c8073dacaecf611589ff0120563
+
 
 
