@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 yolo shivam
-
-=======
 yolo ritikas
->>>>>>> ritika
-
 
